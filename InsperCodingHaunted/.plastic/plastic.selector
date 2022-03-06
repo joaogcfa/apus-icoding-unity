@@ -1,0 +1,4 @@
+repository "InsperCodingHaunted@InsperCoding@cloud"
+  path "/"
+    br "/main"
+    co "/main"
