@@ -32,9 +32,19 @@ apus-icoding-unity/
 - Unity Editor (version specified in `ProjectVersion.txt`)
 - Git (for cloning, optional)
 
+## Roles
+
+- [joaogcfa](https://github.com/joaogcfa) - Map; UI; Power Mechanics
+- [roguetaver](https://roguetaver.itch.io/) - Level Disign; Art; Movement
+
 ## License
 
 MIT — feel free to use, modify, or extend this project.
+
+## Play the Game
+
+Try it now on Itch.io:  
+👉 [https://roguetaver.itch.io/apus](https://roguetaver.itch.io/apus)
 
 ## Author
 
