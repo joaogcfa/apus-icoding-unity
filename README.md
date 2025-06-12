@@ -4,10 +4,11 @@ This project is part of the **iCoding** program, developed using the **Unity** e
 
 ## Features
 
-- Developed with Unity Engine (C#)
-- Modular structure for learning and experimentation
-- Contains scenes or mechanics for prototyping gameplay
-- Suitable for beginner to intermediate Unity developers
+- Player movement
+- Puzzle movement
+- Level picking
+- Inventory system
+- Automatic Save System 
 
 
 ## Project Structure
@@ -25,11 +26,11 @@ apus-icoding-unity/
 1. Open **Unity Hub**.
 2. Click **Add Project**.
 3. Select the folder where you cloned this repository.
-4. Open the project with the correct Unity version (check `ProjectVersion.txt` inside `ProjectSettings`).
+4. Open the project.
 
 ## Requirements
 
-- Unity Editor (version specified in `ProjectVersion.txt`)
+- Unity Editor
 - Git (for cloning, optional)
 
 ## Roles
