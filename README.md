@@ -9,7 +9,6 @@ This project is part of the **iCoding** program, developed using the **Unity** e
 - Contains scenes or mechanics for prototyping gameplay
 - Suitable for beginner to intermediate Unity developers
 
-## Project Structure
 
 ## Project Structure
 
